@@ -17,12 +17,7 @@ const cardData = [
     description: "History & English Faculty",
     passout: "NID (M.Des.), NIFT (B.Des)",
   },
-  {
-    imageSrc: malti,
-    heading: "Malti Menon",
-    description: "Fine Arts Faculty",
-    passout: "JJ School of Arts(B.A.)",
-  },
+
   {
     imageSrc: mehul,
     heading: "Mehul Rawal",
