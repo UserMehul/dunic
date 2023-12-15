@@ -17,7 +17,7 @@ function App() {
       <Knowyourscore />
       {/* <Poster /> */}
       <Courses />
-      <Cards />
+      {/* <Cards /> */}
       {/* <ContactUs /> */}
 
       <GoogleMaps />
